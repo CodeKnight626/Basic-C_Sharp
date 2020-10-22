@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.AssemblyInfo.cs
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.exe
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.deps.json
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.runtimeconfig.json
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.dll
+C:\Users\cesar\source\repos\CSVariables\bin\Debug\netcoreapp3.1\CSVariables.pdb
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.dll
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.pdb
+C:\Users\cesar\source\repos\CSVariables\obj\Debug\netcoreapp3.1\CSVariables.genruntimeconfig.cache

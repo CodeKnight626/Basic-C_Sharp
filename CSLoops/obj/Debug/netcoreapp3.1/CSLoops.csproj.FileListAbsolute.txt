@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.AssemblyInfo.cs
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.exe
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.deps.json
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.runtimeconfig.json
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.dll
+C:\Users\cesar\source\repos\CSLoops\bin\Debug\netcoreapp3.1\CSLoops.pdb
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.dll
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.pdb
+C:\Users\cesar\source\repos\CSLoops\obj\Debug\netcoreapp3.1\CSLoops.genruntimeconfig.cache

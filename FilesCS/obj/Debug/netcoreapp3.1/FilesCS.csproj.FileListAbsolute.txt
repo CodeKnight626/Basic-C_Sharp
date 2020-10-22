@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.exe
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.deps.json
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.runtimeconfig.json
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.dll
+C:\Users\cesar\source\repos\FilesCS\bin\Debug\netcoreapp3.1\FilesCS.pdb
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.dll
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.pdb
+C:\Users\cesar\source\repos\FilesCS\obj\Debug\netcoreapp3.1\FilesCS.genruntimeconfig.cache

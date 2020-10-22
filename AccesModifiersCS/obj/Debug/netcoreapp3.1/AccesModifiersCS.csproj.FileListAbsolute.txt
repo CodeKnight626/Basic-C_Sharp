@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.exe
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.deps.json
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.runtimeconfig.json
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.dll
+C:\Users\cesar\source\repos\AccesModifiersCS\bin\Debug\netcoreapp3.1\AccesModifiersCS.pdb
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.dll
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.pdb
+C:\Users\cesar\source\repos\AccesModifiersCS\obj\Debug\netcoreapp3.1\AccesModifiersCS.genruntimeconfig.cache

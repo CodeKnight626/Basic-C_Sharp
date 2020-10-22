@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\cesar\source\repos\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\cesar\source\repos\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache

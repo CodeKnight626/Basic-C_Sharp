@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.exe
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.deps.json
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.runtimeconfig.json
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.dll
+C:\Users\cesar\source\repos\UserInputAndOperators\bin\Debug\netcoreapp3.1\UserInputAndOperators.pdb
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.AssemblyInfo.cs
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.dll
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.pdb
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.genruntimeconfig.cache
+C:\Users\cesar\source\repos\UserInputAndOperators\obj\Debug\netcoreapp3.1\UserInputAndOperators.csprojAssemblyReference.cache

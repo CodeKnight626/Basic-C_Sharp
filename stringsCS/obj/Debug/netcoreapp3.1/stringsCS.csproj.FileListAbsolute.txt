@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.exe
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.deps.json
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.runtimeconfig.json
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.dll
+C:\Users\cesar\source\repos\stringsCS\bin\Debug\netcoreapp3.1\stringsCS.pdb
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.dll
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.pdb
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.genruntimeconfig.cache
+C:\Users\cesar\source\repos\stringsCS\obj\Debug\netcoreapp3.1\stringsCS.csprojAssemblyReference.cache

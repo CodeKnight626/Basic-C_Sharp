@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.exe
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.deps.json
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.runtimeconfig.json
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.dll
+C:\Users\cesar\source\repos\booleansCS\bin\Debug\netcoreapp3.1\booleansCS.pdb
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.dll
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.pdb
+C:\Users\cesar\source\repos\booleansCS\obj\Debug\netcoreapp3.1\booleansCS.genruntimeconfig.cache

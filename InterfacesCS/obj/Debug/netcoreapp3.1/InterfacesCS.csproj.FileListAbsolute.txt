@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.exe
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.deps.json
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.runtimeconfig.json
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.dll
+C:\Users\cesar\source\repos\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.pdb
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.dll
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.pdb
+C:\Users\cesar\source\repos\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.genruntimeconfig.cache

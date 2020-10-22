@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.exe
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.deps.json
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.runtimeconfig.json
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.dll
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\bin\Debug\netcoreapp3.1\CSBreakAndCOntinue.pdb
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.AssemblyInfo.cs
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.dll
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.pdb
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.genruntimeconfig.cache
+C:\Users\cesar\source\repos\CSBreakAndCOntinue\obj\Debug\netcoreapp3.1\CSBreakAndCOntinue.csprojAssemblyReference.cache

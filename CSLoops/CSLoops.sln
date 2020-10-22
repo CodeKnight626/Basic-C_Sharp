@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLoops", "CSLoops.csproj", "{B5524EB6-C8F9-43BC-B323-9088635B96D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5524EB6-C8F9-43BC-B323-9088635B96D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5524EB6-C8F9-43BC-B323-9088635B96D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5524EB6-C8F9-43BC-B323-9088635B96D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5524EB6-C8F9-43BC-B323-9088635B96D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37A7DC3-39AA-48E2-BDE0-F9EA1B1D7EB8}
+	EndGlobalSection
+EndGlobal

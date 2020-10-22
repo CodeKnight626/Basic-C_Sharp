@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.exe
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.deps.json
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.runtimeconfig.json
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.dll
+C:\Users\cesar\source\repos\ExeptionsCS\bin\Debug\netcoreapp3.1\ExeptionsCS.pdb
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.dll
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.pdb
+C:\Users\cesar\source\repos\ExeptionsCS\obj\Debug\netcoreapp3.1\ExeptionsCS.genruntimeconfig.cache

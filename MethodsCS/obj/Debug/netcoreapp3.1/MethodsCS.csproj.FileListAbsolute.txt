@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.exe
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.deps.json
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.runtimeconfig.json
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.dll
+C:\Users\cesar\source\repos\MethodsCS\bin\Debug\netcoreapp3.1\MethodsCS.pdb
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.dll
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.pdb
+C:\Users\cesar\source\repos\MethodsCS\obj\Debug\netcoreapp3.1\MethodsCS.genruntimeconfig.cache

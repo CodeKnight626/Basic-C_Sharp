@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.exe
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.deps.json
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.runtimeconfig.json
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.dll
+C:\Users\cesar\source\repos\InheritanceCS\bin\Debug\netcoreapp3.1\InheritanceCS.pdb
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.dll
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.pdb
+C:\Users\cesar\source\repos\InheritanceCS\obj\Debug\netcoreapp3.1\InheritanceCS.genruntimeconfig.cache

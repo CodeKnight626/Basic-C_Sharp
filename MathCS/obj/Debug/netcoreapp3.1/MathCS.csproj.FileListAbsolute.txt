@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.exe
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.deps.json
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.runtimeconfig.json
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.dll
+C:\Users\cesar\source\repos\MathCS\bin\Debug\netcoreapp3.1\MathCS.pdb
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.dll
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.pdb
+C:\Users\cesar\source\repos\MathCS\obj\Debug\netcoreapp3.1\MathCS.genruntimeconfig.cache

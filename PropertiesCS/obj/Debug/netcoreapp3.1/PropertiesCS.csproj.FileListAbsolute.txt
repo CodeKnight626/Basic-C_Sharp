@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.exe
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.deps.json
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.runtimeconfig.json
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.dll
+C:\Users\cesar\source\repos\PropertiesCS\bin\Debug\netcoreapp3.1\PropertiesCS.pdb
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.dll
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.pdb
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.genruntimeconfig.cache
+C:\Users\cesar\source\repos\PropertiesCS\obj\Debug\netcoreapp3.1\PropertiesCS.csprojAssemblyReference.cache

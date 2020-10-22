@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.exe
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.deps.json
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.runtimeconfig.json
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.dll
+C:\Users\cesar\source\repos\ConstructorsCS\bin\Debug\netcoreapp3.1\ConstructorsCS.pdb
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.dll
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.pdb
+C:\Users\cesar\source\repos\ConstructorsCS\obj\Debug\netcoreapp3.1\ConstructorsCS.genruntimeconfig.cache

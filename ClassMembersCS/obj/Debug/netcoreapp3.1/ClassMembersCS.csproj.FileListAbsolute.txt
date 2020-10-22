@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.exe
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.deps.json
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.runtimeconfig.json
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.dll
+C:\Users\cesar\source\repos\ClassMembersCS\bin\Debug\netcoreapp3.1\ClassMembersCS.pdb
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.dll
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.pdb
+C:\Users\cesar\source\repos\ClassMembersCS\obj\Debug\netcoreapp3.1\ClassMembersCS.genruntimeconfig.cache

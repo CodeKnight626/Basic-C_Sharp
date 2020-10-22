@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.exe
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.deps.json
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.runtimeconfig.json
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.dll
+C:\Users\cesar\source\repos\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.pdb
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.AssemblyInfo.cs
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.dll
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.pdb
+C:\Users\cesar\source\repos\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.genruntimeconfig.cache

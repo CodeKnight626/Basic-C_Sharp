@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.AssemblyInfo.cs
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.exe
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.deps.json
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.runtimeconfig.json
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.dll
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\bin\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.pdb
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.dll
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.pdb
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.genruntimeconfig.cache
+C:\Users\cesar\source\repos\CSIfElseAndSwitchCase\obj\Debug\netcoreapp3.1\CSIfElseAndSwitchCase.csprojAssemblyReference.cache
